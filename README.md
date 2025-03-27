@@ -5,13 +5,12 @@
 
 Welcome to my GitHub profile! Here, you'll find a collection of my work in data science, hackathons, and passion projects. I'm excited to learn, build, and contribute to the world of technology and innovation.
 
-![Profile views](https://komarev.com/ghpvc/?username=Indrajit1465&color=blue)
 
 ## 🛠 Tech Stack
 
 | Language      | Framework/Tool           | Area                  |
 |---------------|--------------------------|-----------------------|
-| Python, R     | Scikit-learn, Pandas, Numpy, Matplotlib | Machine Learning, Data Analysis |
+| Python, R , Java    | Scikit-learn, Pandas, Numpy, Matplotlib | Machine Learning, Data Analysis |
 | SQL           | MySQL                    | Database Management   |
 | HTML, CSS     | Basic HTML/CSS           | Web Development       |
 
