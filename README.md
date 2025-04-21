@@ -19,6 +19,7 @@ Welcome to my GitHub profile! Here, you'll find a collection of my work in data 
 
 - **Plant Disease Prediction**: Using machine learning to detect and classify plant diseases for timely intervention, aiding farmers and reducing crop loss.
 - **Movie Recommender System**: Personal project using collaborative filtering and content-based recommendation techniques.
+- **Personal Finance Automation Tool**: A Python-based Personal Finance Automation Tool to help users track expenses, visualize financial data, and manage budgets efficiently.
 
 ## 📊 GitHub Stats
 
