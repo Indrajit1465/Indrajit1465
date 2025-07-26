@@ -1,7 +1,7 @@
 
 # Hi!👋 I'm Indrajit
 
-**Data Science Enthusiast | Third-Year Engineering Student | Problem Solver**
+**Data Science Enthusiast | Engineering Student | Problem Solver**
 
 Welcome to my GitHub profile! Here, you'll find a collection of my work in data science, hackathons, and passion projects. I'm excited to learn, build, and contribute to the world of technology and innovation.
 
